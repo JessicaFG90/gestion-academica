@@ -64,4 +64,4 @@ node GestionAcademica.js
 
 ## 🎓 Contexto académico
 
-> Práctica 3 de la asignatura **Lenguaje de Marcas** · 1º DAM · Ucademy · 2025/2026
+> Práctica 3 de la asignatura **Lenguaje de Marcas** · 1º DAM · 2025/2026
